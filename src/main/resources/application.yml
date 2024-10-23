@@ -24,7 +24,7 @@ spring:
 
 staybooking:
   gcs:
-    bucket: secure-skyline-439116-u5
+    bucket: staybookingrunyuyue
   geocoding:
     key: AIzaSyAi7rafTK-kuQsbwyZUNgBNRrITCN-W3lI
   jwt:
